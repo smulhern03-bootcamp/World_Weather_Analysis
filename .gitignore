@@ -1,11 +1,7 @@
 #Adding config.py file.
 config.py
 
-<<<<<<< HEAD
 # Adding addtional files
-=======
-#Adding addtional files.
->>>>>>> 356cbf56aedb05733ac52f394fd319cb0c1d9c99
 API_practice.ipynb
 random_numbers.ipynb
 
